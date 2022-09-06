@@ -1,0 +1,21 @@
+.SearchGreenButton{
+    width: 8.75rem;
+    height: 2.5rem;
+
+    border: 2px solid var(--collor-darkgreen);
+    border-radius: 1.875rem;
+    background-color: white;
+
+    color: var(--collor-darkgreen);
+
+    font-family: var(--font-roboto);
+    font-weight: 500;
+    font-size: 0.813rem;
+}
+
+
+/* mobile */
+
+.SearchGreenButton{
+    margin-top: 3.75rem;
+}

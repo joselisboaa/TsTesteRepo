@@ -1,0 +1,18 @@
+.boxLogoSearchPage{
+    display: flex;
+    width: 100%;
+    
+    align-items: center;
+}
+
+.TitleLogoSearchPage {
+    color: var(--collor-darkgreen);
+    font-size: 2rem;
+    margin-left: 0.625rem;
+}
+/* mobile  */
+
+.ComputerLogoSearchPage{
+    width: 2.625rem;
+    height: 2.375rem;
+}

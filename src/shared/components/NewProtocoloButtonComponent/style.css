@@ -1,0 +1,22 @@
+.NewProtocoloButton{
+    width: 8.75rem;
+    height: 2.5rem;
+
+    border: 2px solid var(--collor-darkgreen);
+    border-radius: 1.875rem;
+    background-color:  var(--collor-darkgreen);
+
+    color:white;
+
+    font-family: var(--font-roboto);
+    font-weight: 500;
+    font-size: 0.813rem;
+
+}
+
+
+/* mobile */
+
+.NewProtocoloButton{
+  margin-top: 2.5rem;
+}

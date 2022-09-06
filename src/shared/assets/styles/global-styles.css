@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Roboto:wght@100;300;400;500&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+input:focus{
+    outline: none;
+}
+
+:root{
+    --font-roboto: 'Roboto', sans-serif;
+    --font-open:'Open Sans', sans-serif;
+    --collor-darkgreen: #164212;
+    --collor-black: #000000;
+}
+
+h1, h2, h3{
+    font-family: var(--font-roboto);
+}
+
+p{
+    font-family: var(--font-open);
+}

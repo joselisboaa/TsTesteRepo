@@ -1,0 +1,27 @@
+{
+  "alunos": [{
+    "matricula": 10000000000000,
+    "nome": "Joab Vite Windows",
+    "email": "joab.vite99@gmail.com"
+  },
+  {
+    "matricula": 10000000000001,
+    "nome": "Maria Live Server Json",
+    "email": "maria.live00@gmail.com"
+  },
+  {
+    "matricula": 10000000000002,
+    "nome": "Kotlin Das Chagas",
+    "email": "kotlin.chagas00@gmail.com"
+  },
+  {
+    "matricula": 10000000000003,
+    "nome": "Typescript da Silva Pereira",
+    "email": "typescript.silva00@gmail.com"
+  },
+  {
+    "matricula": 10000000000004,
+    "nome": "Função Reaload Prettier",
+    "email": "funcao.reload00@gmail.com"
+  }]
+}
